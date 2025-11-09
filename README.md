@@ -10,7 +10,7 @@ Publication: Jalkanen & Zhong et al., "Cytoarchitectural Profiling of White Adip
 
 
 
-![Classification Overview](/main.png)
+![Classification Overview](/main.jpg)
 
 ## Contact
 If you have any further questions or require additional information, please feel free to get in touch. - jiawei.zhong[AT]ki.se
